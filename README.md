@@ -1,3 +1,4 @@
+<img width="2000" height="1414" alt="1" src="https://github.com/user-attachments/assets/f97d2891-f8b1-4932-b166-607de68cf8e9" />
 # IoT-Based Predictive Maintenance System for Vehicle Condition Monitoring Using Machine Learning
 
 ## Project Overview
