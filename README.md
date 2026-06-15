@@ -3,7 +3,8 @@
 ## Project Overview
 
 This project presents an IoT-based predictive maintenance system designed for real-time vehicle condition monitoring using machine learning techniques. It addresses the limitations of conventional maintenance approaches by enabling early fault detection and continuous monitoring of critical vehicle parameters. The system integrates embedded hardware, data processing, a Flask API, and a Node-RED dashboard to provide a comprehensive solution for automotive predictive maintenance.
-
+<img width="2000" height="1000![Uploading Screenshot 2026-05-04 131601.png…]()
+" alt="IMG_5944" src="https://github.com/user-attachments/assets/d6124ec4-5513-4f57-8300-9fcb29cacfd9" />
 ## Features
 
 - **Real-time Vehicle Condition Monitoring**: Continuously monitors important vehicle parameters such as engine temperature, vibration, and battery voltage using an ESP32 microcontroller and various sensors.
