@@ -37,7 +37,7 @@ The system architecture is composed of several interconnected components:
 5. **Database Layer**: For storing historical sensor data and prediction results.
 
 6. **User Interface Layer**: A dashboard (likely built with Node-RED's dashboard capabilities) for presenting real-time vehicle status and predictive insights.
-<img width="500" height="1414" alt="1" src="https://github.com/user-attachments/assets/f97d2891-f8b1-4932-b166-607de68cf8e9" />
+<img width="500" height="400" alt="1" src="https://github.com/user-attachments/assets/f97d2891-f8b1-4932-b166-607de68cf8e9" />
 
 ## Technologies Used
 
@@ -94,6 +94,8 @@ Once the Docker containers are running:
 - **Flask API**: Accessible at `http://localhost:5000` (or the port you configured). You can interact with its endpoints to send data and receive predictions.
 
 - **Node-RED Dashboard**: Accessible at `http://localhost:1880/ui` (assuming you have the dashboard nodes installed and configured in Node-RED). This will display real-time sensor data and vehicle condition status.
+  <img width="600" height="200" alt="Screenshot 2026-05-04 140649" src="https://github.com/user-attachments/assets/343c84c5-d3db-4dc3-9972-0326d369b86a" />
+
 
 ## Experimental Results
 
